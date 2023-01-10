@@ -1,0 +1,14 @@
+.header {
+ width: 400px;
+ height: 400px;       
+ margin: 10px auto;
+ border: 1px solid black;
+ text-align: center;
+ font-size: 19px;
+ font-weight: 35px;
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ box-shadow:  4px 4px 4px rgb(15, 99, 217), 7px 9px 7px rgb(5, 62, 106), 9px 5px 8px rgb(41, 41, 135)  ;
+ background-color: rgb(65, 99, 140);
+}
+
+
